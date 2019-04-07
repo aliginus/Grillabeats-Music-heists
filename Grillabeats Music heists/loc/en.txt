@@ -1,0 +1,4 @@
+{
+    "menu_jukebox_grillabeats" : "Grillabeats",
+    "menu_jukebox_screen_grillabeats" : "Grillabeats"
+}
